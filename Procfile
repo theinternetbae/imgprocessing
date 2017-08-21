@@ -1,1 +1,1 @@
-worker: main damn.js
+worker: main main.js
