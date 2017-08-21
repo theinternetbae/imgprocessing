@@ -1,0 +1,5 @@
+/node_modules
+/npm-debug.*
+/components
+/bower_components
+.DS_Store

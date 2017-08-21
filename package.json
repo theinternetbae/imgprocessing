@@ -1,0 +1,20 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "farhan bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "internetbae"
+  ],
+  "author": "Farhan",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.2.2",
+    "jimp": "^0.2.28",
+    "twit": "^2.2.5"
+  }
+}
